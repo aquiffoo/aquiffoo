@@ -1,9 +1,3 @@
-<style>
-  p {
-    text-align: center;
-  }
-</style>
-
 # My info
 
 <p>Name: Achilles 🙎</p>
