@@ -1,6 +1,7 @@
 # Welcome to my profile!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aquiffoo&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquiffoo&layout=compact)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquiffoo&layout=compact&theme=transparent)
 
 <p>Name: Aquiles Fernandes 🤠</p>
 <p>Brazilian tech enthusiast 🖥️</p>
