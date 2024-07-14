@@ -1,4 +1,5 @@
-# Welcome to my dead profile!
+# Welcome to my profile!
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aquiffoo&show_icons=true&theme=transparent)
 
 <p>Name: Aquiles Fernandes 🤠</p>
 <p>Brazilian tech enthusiast 🖥️</p>
