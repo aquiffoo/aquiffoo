@@ -1,10 +1,10 @@
 # Some stuff about me
-> aqui.ffoo 🤠
-Brazilian tech enthusiast 🖥️
-CEO & Lead Dev @ [Aqui-Solutions](https://www.github.com/Aqui-Solutions) 🚀
-React Native & Python Dev
-> I don't really post here an awful lot
-Gen Zer 👨‍💻
+-> aqui.ffoo 🤠
+-> 🇧🇷 tech enthusiast 🖥️
+-> CEO & Lead Dev @ [Aqui-Solutions](https://www.github.com/Aqui-Solutions) 🚀
+-> React Native & Python Dev
+-> I don't really post here an awful lot
+-> Gen Zer 👨‍💻
 I could call myself a junior dev (literally)
 
 # Some of my stats
