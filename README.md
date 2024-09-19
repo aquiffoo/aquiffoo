@@ -3,7 +3,7 @@
 <br>
 -> 🇧🇷 tech enthusiast 🖥️
 <br>
--> CEO & Lead Dev @ [Aqui-Solutions](https://www.github.com/Aqui-Solutions) 🚀
+-> CEO & Lead Dev @ [Aqui Solutions](https://www.github.com/aquislt) 🚀
 <br>
 -> React Native & Python Dev
 <br>
