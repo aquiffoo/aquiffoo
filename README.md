@@ -1,5 +1,5 @@
 # Some stuff about me
--> aqui.ffoo - 🌎 [website here](https://www.aquiffoo.vercel.app)
+-> aqui.ffoo - 🌎 [website here](https://aquiffoo.vercel.app/)
 <br>
 -> 🇧🇷 tech enthusiast 🖥️
 <br>
