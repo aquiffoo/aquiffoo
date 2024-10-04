@@ -3,6 +3,8 @@
 <br>
 -> 🇧🇷 tech enthusiast 🖥️
 <br>
+-> Oct 1st 🎂
+<br>
 -> CEO & Lead Dev @ [Aqui Solutions](https://www.github.com/aquislt) 🚀
 <br>
 -> React Native & Python Dev
