@@ -7,9 +7,7 @@
 <br>
 -> CEO & Lead Dev @ [Aqui Solutions](https://www.github.com/aquislt) 🚀
 <br>
--> React Native & Python Dev
-<br>
--> I don't really post here an awful lot
+-> HTML, React, RN, NodeJS, Typescript, Python and Flask Dev
 <br>
 -> Gen Zer 👨‍💻
 <br>
