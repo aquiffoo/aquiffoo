@@ -13,6 +13,4 @@
 <br>
 I could call myself a junior dev (literally)
 
-# Some of my stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aquiffoo&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquiffoo&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquiffoo&layout=compact&theme=transparent)
