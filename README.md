@@ -12,4 +12,8 @@ aquiffoo@github /about-me
 <br>
 ![stuff](https://skillicons.dev/icons?i=react,androidstudio,gmail,arduino,markdown,windows,sqlite,nodejs,git,bash,next)
 <br> <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquiffoo&layout=compact&theme=transparent)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aquiffoo&theme=chartreuse-dark&hide_border=true" alt="my stats" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquiffoo&theme=chartreuse-dark&layout=compact&hide_border=true" alt="my top langs" height="195px" />
+</p>
