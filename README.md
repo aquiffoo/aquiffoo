@@ -14,6 +14,6 @@ aquiffoo@github /about-me
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aquiffoo&theme=blue_navy&hide_border=true" alt="my stats" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquiffoo&theme=blue_navy&layout=compact&hide_border=true" alt="my top langs" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquiffoo&theme=blue_navy&layout=compact&hide_border=true&langs_count=8" alt="my top langs" height="195px" />
   <img src="https://streak-stats.demolab.com/?user=aquiffoo&theme=blue_navy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats" alt="streak" height="195px"/>
 </p>
