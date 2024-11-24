@@ -1,11 +1,11 @@
 ```bash
 aquiffoo@github /about-me
 > ls
-aquiffoo.vercel.app/    brazil
+aquiffoo.is-a.dev/    brazil
 october-1st             ceo-aquislt/
 gen-z                   junior-dev/
 aquiffoo@github /about-me
-> cd aquiffoo.vercel.app/
+> cd aquiffoo.is-a.dev/
 ```
 ![stuff](https://skillicons.dev/icons?i=js,py,html,css,ts,cs,discord,premiere,github,notion,vscode)
 <br>
