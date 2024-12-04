@@ -1,18 +1,7 @@
-```bash
-aquiffoo@github /about-me
-> ls
-aquiffoo.is-a.dev/    brazil
-october-1st             ceo-aquislt/
-gen-z                   junior-dev/
-aquiffoo@github /about-me
-> cd aquiffoo.is-a.dev/
-```
-![stuff](https://skillicons.dev/icons?i=js,py,html,css,ts,cs,discord,premiere,github,notion,vscode)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,py,html,css,ts,cs,discord,premiere,github,notion,vscode" width=450px alt="My Skills 1"/>
 <br>
-![stuff](https://skillicons.dev/icons?i=react,androidstudio,gmail,arduino,markdown,windows,sqlite,nodejs,git,bash,next)
-<br> <br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aquiffoo&theme=blue_navy&hide_border=true" alt="my stats" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquiffoo&theme=blue_navy&layout=compact&hide_border=true&langs_count=8" alt="my top langs" height="195px" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,androidstudio,gmail,arduino,markdown,windows,sqlite,nodejs,git,bash,next" width=450px alt="My Skils 2"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aquiffoo&theme=highcontrast&count_private=true&show_icons=true&custom_title=Stats%20of%20aqui&hide_border=true" width=450px alt="My GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquiffoo&theme=highcontrast&count_private=true&show_icons=true&&langs_count=8&layout=compact&custom_title=Top%20Languages%20of%20aqui&hide_border=true" width=450px alt="Top Languages"/>
+</div>
