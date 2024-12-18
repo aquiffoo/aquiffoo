@@ -3,5 +3,5 @@
 <br>
 <img src="https://skillicons.dev/icons?i=react,go,gmail,arduino,markdown,windows,sqlite,nodejs,git,bash,next" width=300px alt="My Skils 2"/>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquiffoo&langs_count=10&layout=compact&theme=catppuccin_mocha&hide_border=true&count_private=true" width=300px alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquiffoo&langs_count=12&layout=compact&theme=catppuccin_mocha&hide_border=true&count_private=true" width=300px alt="Top Languages"/>
 </div>
