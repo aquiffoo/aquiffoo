@@ -3,5 +3,6 @@
 <br>
 <img src="https://skillicons.dev/icons?i=react,go,gmail,arduino,markdown,windows,sqlite,nodejs,git,bash,next" width=300px alt="My Skils 2"/>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquiffoo&langs_count=8&layout=compact&theme=catppuccin_mocha&hide_border=true&count_private=true&exclude_repo=csharp-tempconv,notethis,tempojs,textract,highnote" width=300px alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquiffoo&langs_count=8&layout=compact&theme=catppuccin_mocha&hide_border=true&count_private=true&exclude_repo=csharp-tempconv,notethis,tempojs,textract,highnote&hide=shell,batchfile,vue,css,html" width=300px alt="Top Languages"/>
+<p>*does not include HTML, CSS, Shell languages and Vue</p>
 </div>
